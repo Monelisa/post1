@@ -28,7 +28,7 @@ if(x=="2"){xxx="/2018/10/printable-tattoo-designs-find-them.html"}
 if(x=="3"){xxx="/2018/10/dating-sites-and-dating-tips.html"}
 if(x=="4"){xxx="//2018/10/dating-test-how-romantic-you-are.html"}
 if(x=="5"){xxx="/2018/10/safe-link-converter-encrypting-your.html"}
-if(x==""){xxx="/2018/10/hartford-auto-insurance-company-is.html"}a_to_ve[i].href="https://bungkreng.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="6"){xxx="/2018/10/hartford-auto-insurance-company-is.html"}a_to_ve[i].href="https://bungkreng.blogspot.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
